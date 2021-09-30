@@ -1,5 +1,5 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Java Mod Test"
 
 #the internal name of your mod
 name: "example-java-mod"
