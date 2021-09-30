@@ -1,0 +1,15 @@
+"displayName": "Java Mod Test"
+
+"name": "example-java-mod"
+
+"author": "You"
+
+"main": "example.ExampleJavaMod"
+
+"description": "A Mindustry Java mod template."
+
+"version": 1.0
+
+"minGameVersion": 129
+
+"java": true
